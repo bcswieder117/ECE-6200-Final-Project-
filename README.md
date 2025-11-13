@@ -1,4 +1,5 @@
-# ECE 6200: Final Project
+# Linearized Pitch-Axis Attitude Control of a Rocket Using State Feedback and Observer Design
+## Final Project for ECE 6200 @ TnTech
 
 **Course Description**: State space analysis of multiple-input/multiple-output continuous and discrete-time systems; linear spaces; time-varying systems, controllability, observability, and stability.
 
